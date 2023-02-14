@@ -144,3 +144,5 @@ var init = function () {
 var s = document.readyState;
 if (s === 'complete' || s === 'loaded' || s === 'interactive') init();
 else document.addEventListener('DOMContentLoaded', init, false);
+
+// https://dribbble.com/shots/2955075-Neon-Sign-in-CSS
